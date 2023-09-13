@@ -1,6 +1,6 @@
 # voc-cli
 
-voc-cli is a command-line tool for translating selected text and save that to Your [Voc Account](https://t.me/botvoc_bot) using shortcut keys.
+voc-cli is a command-line tool for translating selected text and save that to Your [Voc Account](https://t.me/botvoc_bot) using shortcut keys. Then Voc will help you memorize your vocabulary using scientifically proven timing techniques
 
 ## Features
 
